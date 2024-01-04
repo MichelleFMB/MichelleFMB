@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   I'm in my 7th semester in UPC University. <br>
   I'm currently learning Flutter and improving my full stack skills. <br>
   I like to read manhuas and manhwa.
