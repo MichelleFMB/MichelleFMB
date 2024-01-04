@@ -34,7 +34,7 @@
   </a>
   
   <a href="https://tu_portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F73BB4FF?style=for-the-badge&logo=portfolio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" />
   </a>
 </div>
 
