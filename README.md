@@ -29,12 +29,12 @@
   <img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/tu_usuario_de_linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
+  <a href="https://www.linkedin.com/in/michelle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="https://tu_portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=portfolio&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" />
   </a>
 </div>
 
