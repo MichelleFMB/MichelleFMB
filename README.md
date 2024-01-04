@@ -1,4 +1,4 @@
-<img aligh="right" src="https://visitor-badge.laobi.icu/badge?page_id=MichelleFMB.MichelleFMB" />
+<img aligh="right" src="https://visitor-badge.laobi.icu/badge?page_id=Michelle.MichelleFMB" />
 ### Hi there 👋
 
 <!--
