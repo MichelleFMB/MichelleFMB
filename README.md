@@ -32,6 +32,7 @@
   <a href="https://www.linkedin.com/in/tu_usuario_de_linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
+  
   <a href="https://tu_portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=portfolio&logoColor=purple" />
   </a>
