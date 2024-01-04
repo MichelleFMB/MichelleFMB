@@ -41,6 +41,17 @@
 </div>
 
 <br/>
+<br/>
+
+<h2 align="center"> 🖊️ Languagues Frameworks Tools 🖊️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,vercel,mongodb,azure,c,c++,c#,java"/><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,postgresql,html,css,vscode,webstorm,intellij,figma,adobexd,git"/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://github.com/MichelleFMB/MichelleFMB/assets/102604395/6379365b-093d-4a8a-8773-08c7aec65c82"/>
 </div>
