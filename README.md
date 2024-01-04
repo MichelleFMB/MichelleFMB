@@ -11,5 +11,5 @@
 <br/>
 
 <div align= "center">
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&bg_color=00000000)
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&bg_color=00000000"/>
 </div>
