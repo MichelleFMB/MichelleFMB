@@ -10,9 +10,17 @@
 
 <br/>
 
+<div align="center">
+  I'm in my 7th semester in UPC University
+  I'm currently learning Flutter and improving my full stack skills.
+  I like to read manhuas and manhwa.
+</div>
+
 <div align= "center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichelleFMB&show_icons=true&theme=omni"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github.com/MichelleFMB/MichelleFMB/assets/102604395/6379365b-093d-4a8a-8773-08c7aec65c82"/>
