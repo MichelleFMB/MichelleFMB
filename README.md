@@ -15,5 +15,5 @@
 </div>
 
 <div>
-  <img src="[https://github-readme-stats.vercel.app/api?username=MichelleFMB&show_icons=true&theme=omni](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2Fgirl-cute-shionji-yuuko-1828551%2F&psig=AOvVaw2vvtf1dGBUS8X7I5-DruaU&ust=1704483167213000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiN2d-8xIMDFQAAAAAdAAAAABAm)https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2Fgirl-cute-shionji-yuuko-1828551%2F&psig=AOvVaw2vvtf1dGBUS8X7I5-DruaU&ust=1704483167213000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiN2d-8xIMDFQAAAAAdAAAAABAm"/>
+ ![girl-programming](https://github.com/MichelleFMB/MichelleFMB/assets/102604395/6379365b-093d-4a8a-8773-08c7aec65c82)
 </div>
