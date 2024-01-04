@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="mailto:pedro.sales.michelle.morenobest@gmail.com">
-  <img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+  <img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=F73BB4FF" target="_blank"/>
   </a>
 </div>
 
