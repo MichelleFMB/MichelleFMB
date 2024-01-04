@@ -14,7 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MichelleFMB&show_icons=true&theme=omni"/>
 </div>
 
-<div>
- ![girl-programming](https://github.com/MichelleFMB/MichelleFMB/assets/102604395/6379365b-093d-4a8a-8773-08c7aec65c82)
+<div align="center">
   <img src="https://github.com/MichelleFMB/MichelleFMB/assets/102604395/6379365b-093d-4a8a-8773-08c7aec65c82"/>
 </div>
