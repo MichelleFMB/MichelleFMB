@@ -25,5 +25,12 @@
 <br/>
 
 <div align="center">
+  <a href="mailto:pedro.sales.michelle.morenobest@gmail.com">
+  <img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+  </a>
+</div>
+
+<br/>
+<div align="center">
   <img src="https://github.com/MichelleFMB/MichelleFMB/assets/102604395/6379365b-093d-4a8a-8773-08c7aec65c82"/>
 </div>
