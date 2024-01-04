@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align= "center">
-  A **Software Developer Student** from Peru
+  A <strong>Software Developer Student</strong> from Peru
 </h3>
 
 <br/>
