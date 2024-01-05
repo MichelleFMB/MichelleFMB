@@ -48,8 +48,8 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,vercel,mongodb,azure,c,java"/><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,postgresql,html,css,vscode,docker,figma,git"/>
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.svg?_gl=1*ynb242*_ga*NDg2NzE3MDAzLjE2ODc3ODgyNTc.*_ga_9J976DJZ68*MTcwNDQxNzA4My4zLjEuMTcwNDQxNzE2OC4wLjAuMA..&_ga=2.59196141.1922759500.1704417084-486717003.1687788257" alt="JetBrains Logo" width="20" height="20">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,postgresql,html,css,vscode,docker,figma,git,ae"/>
+
   </a>
 </div>
 
