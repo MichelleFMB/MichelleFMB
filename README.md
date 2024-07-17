@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  I'm in my 7th semester in UPC University <img src="https://github.com/MichelleFMB/MichelleFMB/assets/102604395/44345cf9-425f-42ef-bcea-52a33893de90" width="30" height="30" align="center"/><br>
+  I'm in my 8th semester in UPC University <img src="https://github.com/MichelleFMB/MichelleFMB/assets/102604395/44345cf9-425f-42ef-bcea-52a33893de90" width="30" height="30" align="center"/><br>
   I'm currently learning Flutter and improving my full stack skills 📝💻 <br>
   I like to read manhuas and manhwa 📚
 </div>
